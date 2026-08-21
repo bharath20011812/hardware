@@ -225,7 +225,7 @@ body.page-light .site-header.is-solid .logo{ color: var(--navy); }
   position:relative;
   transition: color .3s var(--ease), background .3s var(--ease);
 }
-body.page-light .site-header:not(.is-solid) .main-nav a{ color: rgba(20,32,51,0.72); }
+body.page-light .site-header:not(.is-solid) .main-nav a{ color: #fff; }
 .site-header.is-solid .main-nav a{ color: rgba(255,255,255,0.78); }
 body.page-light .site-header.is-solid .main-nav a{ color: rgba(20,32,51,0.72); }
 
